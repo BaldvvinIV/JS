@@ -1,0 +1,8 @@
+* {
+	box-sizing: border-box;
+}
+.Hello {
+    color: rebeccapurple;
+    width: 500px;
+    margin: auto;
+}
